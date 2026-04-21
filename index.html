@@ -1,4 +1,4 @@
-export default function AfropianoAsiaWebsite() {
+export default function App() {
   const featuredEvent = {
     title: "Annual White Party (Build-Up Event)",
     date: "Date TBA",
